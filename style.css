@@ -1,13 +1,12 @@
 .container{
     border : 2px solid red;
     max-width: 90%;
-    margin: 0 auto;
-    background-color: rgb(209, 201, 201);
-    margin-top: 5%;
+    margin: 1% auto;
+    background-color: rgb(209, 201, 201);    
     
 }
 .card {
-    margin :20px auto;
+    margin :10px auto;
    
 }
 
