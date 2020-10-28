@@ -7,4 +7,10 @@
 }
 .card {
     margin :20px auto;
+   
+}
+
+.card-img-top{
+   
+    margin-top: 10px;
 }
