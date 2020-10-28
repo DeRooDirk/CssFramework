@@ -1,17 +1,9 @@
 .container-fluid {
-    background-color: rgb(209, 201, 201);
-    width: 90%;
-    border: 2px solid rgb(68, 64, 64); 
-    margin-top: 15px;   
+    background-color: rgb(209, 201, 201);       
 }
 
-.row {
-    margin: 10px;
-}
 
-.card {
-    margin-top: 10px;
-}
+
 
 .dashed {
     width: 50%;
@@ -19,3 +11,10 @@
 .card-img-top{
     margin :10px
 }
+
+@media (max-width: 768px) {
+    .navbar{
+        display: none;
+    }
+    
+    }
