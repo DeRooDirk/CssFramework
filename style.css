@@ -1,7 +1,7 @@
 .container-fluid {
     background-color: rgb(209, 201, 201);
     width: 90%;
-    border: 2px solid red;
+    border: 2px solid rgb(68, 64, 64);
     margin-top: 10px;
 }
 
@@ -17,5 +17,5 @@
     width: 50%;
 }
 .card-img-top{
-    margin :20px
+    margin :10px
 }
