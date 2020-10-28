@@ -1,5 +1,5 @@
 .container-fluid {
-    background-color: rgb(209, 201, 201);  
+    background-color: rgb(245, 241, 241);  
         
 }
 
@@ -7,14 +7,26 @@
     margin: 2px 0px;
 }
 
-
 .dashed {
     width: 50%;
 }
 .card-img-top{
     margin :10px
 }
+h5{
+    font-family: 'Montserrat', sans-serif;    
+}
+p{
+    font-family: 'Lato', sans-serif;
+    
+}
 
+body {
+    display: grid;
+    height: 100vh;
+    margin: 0;
+    place-items: center center;
+  }
 @media (max-width: 768px) {
     .navbar{
         display: none;
