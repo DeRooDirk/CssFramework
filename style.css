@@ -3,6 +3,7 @@
     max-width: 90%;
     margin: 0 auto;
     background-color: rgb(209, 201, 201);
+    margin-top: 5%;
     
 }
 .card {
@@ -13,4 +14,8 @@
 .card-img-top{
    
     margin-top: 10px;
+}
+.credit{  
+   text-align: center;
+    width: 100%;
 }
