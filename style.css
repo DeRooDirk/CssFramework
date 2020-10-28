@@ -1,20 +1,13 @@
-.container{
-    
-   
+.container-fluid{
+    display: flex;    
+    margin: 0.2rem auto;
+    background-color: rgb(209, 201, 201);
+    width: 90%;
     margin: 1% auto;
-    background-color: rgb(209, 201, 201);    
-    
+      
 }
-.card {
-    margin :10px auto;
-   
+.card{
+    margin: 1%;
 }
 
-.card-img-top{
-   
-    margin-top: 10px;
-}
-.credit{  
-   text-align: center;
-    width: 100%;
-}
+
