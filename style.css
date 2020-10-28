@@ -1,13 +1,18 @@
-.container-fluid{
-    display: flex;    
-    margin: 0.2rem auto;
+.container-fluid {
     background-color: rgb(209, 201, 201);
     width: 90%;
-    margin: 1% auto;
-      
-}
-.card{
-    margin: 1%;
+    border: 2px solid red;
+    margin-top: 10px;
 }
 
+.row {
+    margin: 10px;
+}
 
+.card {
+    margin-top: 10px;
+}
+
+.dashed {
+    width: 50%;
+}
