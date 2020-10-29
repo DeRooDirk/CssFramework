@@ -17,6 +17,8 @@ body {
     margin: 0;
     place-items: center center;
   }
+
+  
 @media (max-width: 754px) {
     .navbar{
         display: none;
